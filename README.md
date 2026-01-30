@@ -5,6 +5,8 @@ computer science, economics, and machine intelligence.
 
 This GitHub profile is a **central navigation point** for my public work.
 
+For myself, I've also link the private navigation point: [private-repos](#https://github.com/tbrumbaugh5396/tbrumbaugh5396-private-index)
+
 ---
 
 ## 📚 Table of Contents
