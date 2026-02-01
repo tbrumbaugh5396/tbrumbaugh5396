@@ -5,6 +5,7 @@ computer science, economics, and machine intelligence.
 
 This GitHub profile is a **central navigation point** for my public work.
 
+These documents are apart of a larger web of documents that I use to navigate my work.
 For myself, I've also link the private navigation point: [private-repos](https://github.com/tbrumbaugh5396/tbrumbaugh5396-private-index)
 
 ---
@@ -32,6 +33,7 @@ For myself, I've also link the private navigation point: [private-repos](https:/
 - Private repositories exist for unfinished or sensitive work.
 
 This README is meant to function as a **map**, not a marketing page.
+However, may transition to a marketing page as this matures and later a website.
 
 ---
 
