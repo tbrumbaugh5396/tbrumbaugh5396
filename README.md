@@ -12,6 +12,7 @@ For myself, I've also link the private navigation point: [private-repos](https:/
 
 ## 📚 Table of Contents
 
+- [Naming Conventions](#-naming-conventions)
 - [How to Use This Profile](#-how-to-use-this-profile)
 - [Repository Index](#-repository-index)
   - [Machine Learning & Agents](#machine-learning--agents)
@@ -22,6 +23,17 @@ For myself, I've also link the private navigation point: [private-repos](https:/
 - [Private Work](#-private-work)
 - [Contact](#-contact)
 - [Disclaimer](#-disclaimer)
+
+---
+
+## 📚 Naming Conventions
+
+The naming conventions for repositories are as follows:
+
+- Uppercase letters are used to separate words in navigation repos that only contain a README and no code
+- Otherwise, the repo name should be in all lowercase letters and use snake_case, with hyphens used to separate words
+- All repos should be in the github folder on my computer
+- All folders should match the repo name
 
 ---
 
@@ -42,37 +54,7 @@ However, may transition to a marketing page as this matures and later a website.
 | Repository | Description | Status |
 |----------|------------|--------|
 | - | - | - |
----
 
-### Machine Learning & Agents
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| - | - | - |
-
----
-
-### Programming Languages & Formalism
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| - | - | - |
-
----
-
-### Infrastructure & Tooling
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| - | - | - |
-
----
-
-### Writing & Conceptual Notes
-
-| Repository | Description | Status |
-|----------|------------|--------|
-| - | - | - |
 ---
 
 ## 🧪 Project Status Legend
